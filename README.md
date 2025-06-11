@@ -36,7 +36,7 @@ I'm a Data Science undergraduate at Chapman University with a growing passion fo
 ---
 
 ## 📫 How to reach me:
-- 📧 Email: [aspeight@chapman.edu](mailto:aspeight@chapman.edu)  
+- 📧 Email: [aspeight@chapman.edu](mailto:aspeight@chapman.edu) | [speightasiyah@gmail.com](mailto:speightasiyah@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/asiyahspeight](https://www.linkedin.com/in/asiyahspeight)  
 - 🌐 Portfolio: *Coming soon!*  
 

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/A_digital_illustration_showcases_a_young_woman_wit.png" alt="Banner" style="max-width:100%;">
+  <img src="./ChatGPT%20Image%20Jun%2011%2C%202025%2C%2012_07_40%20AM.png" alt="Banner" style="max-width:100%;">
 </p>
 
 # 👋 Hi there, I'm Asiyah Speight!

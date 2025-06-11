@@ -3,7 +3,7 @@
   <img src="./banner.png" alt="Banner" style="max-width:100%;">
 </p>
 
-# 👋 Hi there, I'm Asiyah Speight!
+# 👋🏾 Hi there, I'm Asiyah Speight!
 
 I'm a Data Science undergraduate at Chapman University with a growing passion for automation, control systems, and the intersection of data, engineering, and geography. I enjoy exploring how technology can be applied across fields to make meaningful impact—especially through cross-disciplinary work.
 

@@ -10,21 +10,24 @@ I'm a Data Science undergraduate at Chapman University with a growing passion fo
 ---
 
 ## 👁️‍🗨️ I'm interested in:
-- Data science & machine learning for social good 🌍  
-- Ethical tech, AI fairness, and algorithmic bias ⚖️  
-- Interactive data visualizations 📊  
-- Human-computer interaction and user research 🧠  
-- Manufacturing and fabrication 🏭  
-- Electrical engineering ⚡  
-- Mechanical engineering 🔧  
+- Data science & machine learning for social good 
+- Ethical tech, AI fairness, and algorithmic bias   
+- Interactive data visualizations 
+- Human-computer interaction and user research  
+- Manufacturing and fabrication 
+- Electrical engineering 
+- Mechanical engineering 
 
 ---
 
-## 🌱 I'm currently learning:
-- Advanced C++ and algorithms (retaking with a vengeance 💪)  
+## I'm currently learning:
+- Advanced C++ and algorithms (retaking with a vengeance )  
 - Network protocols and socket programming (CPSC 353)  
 - Tableau, Alteryx, and applied analytics (MGSC 410)  
-- Arabic grammar and root system linguistics  
+- Arabic grammar and root system linguistics
+- Thai
+- SQL
+- The ins and outs of Machine Learning & Artificial Intelligence
 
 ---
 

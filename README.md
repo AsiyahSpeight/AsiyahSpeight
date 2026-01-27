@@ -1,13 +1,37 @@
 # 👋🏾 Hi there, I'm Asiyah Speight!
 
-I'm a recent **Data Science graduate** from Chapman University passionate about using data and machine learning to solve real-world problems. I build end-to-end data solutions—from web scraping and data pipelines to predictive models and interactive dashboards—with a focus on making technology accessible and impactful.
+I'm a recent **Data Science graduate** from Chapman University with **published research in machine learning and NLP**. I build end-to-end data solutions—from web scraping and data pipelines to predictive models and interactive dashboards—with a focus on making technology accessible and impactful.
+
+---
+
+## 📄 Published Research
+
+### [Bridging Machine Learning and Islamic Scholarship: A Study in Hadith Translation and Similarity Analysis](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
+**Chapman University Digital Commons | December 2025**
+
+Evaluated neural machine translation and semantic similarity detection for Arabic–English hadiths using the full Sahih Bukhari corpus (7,550 hadiths). MarianMT transformer model fine-tuned on the full dataset improved BLEU scores by **49.6%** compared to baseline. Ten Siamese architectures tested for semantic similarity, achieving ~50% accuracy, demonstrating the importance of large, domain-specific corpora for translation and analysis.
+
+**🎤 Presented at Chapman University Student Research Day:**
+- Oral Presentation
+- Poster Presentation
+
+**🔬 Research Highlights:**
+- Fine-tuned MarianMT transformer on 7,550 Arabic hadiths
+- 49.6% BLEU score improvement over baseline
+- Tested 10 Siamese network architectures (LSTM, BiLSTM, GRU, Transformer)
+- Developed Arabic-specific representations for semantic similarity
+- Built web scraping pipeline for data collection and preprocessing
+
+**💻 Tech Stack:** Python, PyTorch, Transformers (MarianMT, Hugging Face), BeautifulSoup, NLP, Deep Learning, LSTM, BiLSTM, GRU
+
+[**📖 Read Full Paper →**](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
 
 ---
 
 ## 🚀 What I Do:
 - **Machine Learning & NLP:** Build neural networks, transformers, and similarity detection models
 - **Data Engineering:** Design databases, optimize SQL queries, and create data pipelines
-- **Data Visualization:** Create interactive dashboards using Tableau, Streamlit, and Python libraries
+- **Data Visualization:** Create interactive dashboards using Tableau, Power BI, and Python libraries
 - **Web Scraping & Automation:** Extract and process data from web sources with BeautifulSoup
 - **Statistical Analysis:** Apply predictive modeling and feature engineering to complex datasets
 
@@ -16,16 +40,17 @@ I'm a recent **Data Science graduate** from Chapman University passionate about 
 ## 💼 Featured Projects:
 
 ### 🤖 [Hadith Translation & Similarity Analysis](link-to-repo)
-Neural machine translation system using MarianMT transformers to translate 7,550 Arabic hadiths, achieving 50% BLEU score improvement. Built 10 deep learning models (LSTM, BiLSTM, GRU) for semantic similarity detection.
+Neural machine translation system using MarianMT transformers to translate 7,550 Arabic hadiths, achieving 49.6% BLEU score improvement. Built 10 deep learning models (LSTM, BiLSTM, GRU) for semantic similarity detection. **Published research** in Chapman University Digital Commons.
 - **Tech:** Python, PyTorch, Transformers, BeautifulSoup, NLP
+- **Publication:** https://digitalcommons.chapman.edu/cusrd_abstracts/779/
 
 ### 🐾 [Pet Adoption Management System](link-to-repo)
 Full-stack platform with Streamlit frontend and MySQL backend, featuring normalized database design, role-based access control, and interactive dashboards for shelter operations.
 - **Tech:** Python, Streamlit, MySQL, SQL, Database Design
 
 ### 📊 [Vestiaire Collective Business Analytics](link-to-repo)
-Analyzed 500K+ luxury resale product listings using Tableau and Alteryx to identify pricing inefficiencies and optimize revenue strategies.
-- **Tech:** Tableau, Alteryx, Python, Data Visualization
+Analyzed 500K+ luxury resale product listings using Tableau, Power BI, and Alteryx to identify pricing inefficiencies and optimize revenue strategies.
+- **Tech:** Tableau, Power BI, Alteryx, Python, Data Visualization
 
 ### ❤️ [Heart Disease Prediction Model](link-to-repo)
 Built and optimized Random Forest classifier with hyperparameter tuning to predict heart disease risk from medical datasets.
@@ -61,6 +86,7 @@ Built and optimized Random Forest classifier with hyperparameter tuning to predi
 - 📧 Email: [speightasiyah@gmail.com](mailto:speightasiyah@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/asiyahspeight](https://www.linkedin.com/in/asiyahspeight)
 - 🌐 Portfolio: [AsiyahSpeight.github.io/asiyah-portfolio](https://AsiyahSpeight.github.io/asiyah-portfolio)
+- 📄 Research: [Published Paper on ML & NLP](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
 
 ---
 
@@ -85,6 +111,7 @@ Built and optimized Random Forest classifier with hyperparameter tuning to predi
 **Visualization & BI:**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-1E4C8B?style=for-the-badge&logo=dataiku&logoColor=white)
 
@@ -116,9 +143,3 @@ Built and optimized Random Forest classifier with hyperparameter tuning to predi
 ---
 
 *💬 Open to collaborations, opportunities, and conversations about data science, ML, and tech for good!*
-
-<!---
-AsiyahSpeight/AsiyahSpeight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-

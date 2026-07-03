@@ -1,67 +1,135 @@
-# 👋🏾 Hi there, I'm Asiyah Speight!
+# 👋🏾 Hi, I'm Asiyah Speight!
 
-I'm a recent **Data Science graduate** from Chapman University with **published research in machine learning and NLP**. I build end-to-end data solutions—from web scraping and data pipelines to predictive models and interactive dashboards—with a focus on making technology accessible and impactful.
+I'm a recent **Data Science graduate** from **Chapman University** with experience in **machine learning, natural language processing, analytics, and data engineering**.
+
+My work focuses on building end-to-end data solutions—from data collection and preprocessing to predictive modeling, dashboards, and research—with an emphasis on solving real-world problems through data.
+
+📍 Anaheim Hills, CA
+
+🎓 B.S. Data Science | Chapman University (2025)
+
+📄 Published ML & NLP Research
+
+🔍 Seeking Data Analyst, Business Intelligence, and Machine Learning opportunities
+
+📈 Built projects using datasets ranging from 7,500 to 500,000+ records
+
+---
+
+## 📊 At a Glance
+
+- 🎓 B.S. in Data Science, Chapman University (2025)
+- 📄 Published ML & NLP Research
+- 🧠 Machine Learning | NLP | SQL | Data Analytics
+- 📈 Experience working with datasets ranging from 7,500 to 500,000+ records
+- 🌍 Interested in AI for language, healthcare, and education
+
+---
+
+## 📚 Selected Coursework
+
+- Machine Learning
+- Artificial Intelligence
+- Statistical Models in Business Analytics
+- Database Management Systems
+- Data Structures & Algorithms
+- Human-Computer Interaction
+
+---
+
+## 🚀 Featured Projects:
+
+### 🤖 Hadith Translation & Similarity Analysis
+
+Published undergraduate research exploring Arabic–English neural machine translation and semantic similarity using the complete Sahih Bukhari corpus.
+
+**Highlights**
+
+- 📄 Published through Chapman University Digital Commons
+- 📚 Processed 7,550 Arabic-English hadiths
+- 📈 Improved MarianMT BLEU score by 49.6%
+- 🧠 Evaluated 10 deep learning architectures
+- 🎤 Presented oral and poster presentations at Chapman Student Research Day
+
+**Tech**
+
+Python • PyTorch • Hugging Face • MarianMT • BeautifulSoup • NLP
+
+📄 [Publication](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
+
+### 🐾 Pet Adoption Management System
+
+Designed and developed a full-stack pet adoption management platform for animal shelters using Streamlit and MySQL.
+
+**Highlights**
+
+- 🗄 Designed a normalized 7-table relational database
+- 💻 Built an interactive Streamlit application
+- 🔐 Implemented role-based access control
+- 📊 Created reporting workflows for adoption records
+
+**Tech**
+
+Python • Streamlit • MySQL • SQL • Database Design
+
+### 📊 Vestiaire Collective Business Analytics
+
+Analyzed more than 500,000 luxury resale listings to uncover pricing trends, inventory performance, and customer behavior.
+
+**Highlights**
+
+- 📈 Analyzed 500,000+ marketplace listings
+- 📊 Developed Tableau and Power BI dashboards
+- 💰 Identified pricing and inventory optimization opportunities
+- 📋 Presented data-driven business recommendations
+
+**Tech**
+
+Tableau • Power BI • Alteryx • Python • Data Visualization
+
+### ❤️ Heart Disease Prediction Model
+
+Developed machine learning models to predict heart disease risk using clinical healthcare data.
+
+**Highlights**
+
+- 🤖 Built Random Forest, Logistic Regression, Ridge, and Lasso models
+- 📈 Compared model performance using statistical evaluation metrics
+- 🩺 Identified key predictors associated with heart disease risk
+- 📊 Communicated findings through visualizations and reports
+
+**Tech**
+
+Python • scikit-learn • Pandas • NumPy • Statistical Modeling
 
 ---
 
 ## 📄 Published Research
 
-### [Bridging Machine Learning and Islamic Scholarship: A Study in Hadith Translation and Similarity Analysis](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
-**Chapman University Digital Commons | December 2025**
+Published in Chapman University's Digital Commons (December 2025).
+My undergraduate research investigated Arabic–English neural machine translation and semantic similarity using the complete Sahih Bukhari corpus.
 
-Evaluated neural machine translation and semantic similarity detection for Arabic–English hadiths using the full Sahih Bukhari corpus (7,550 hadiths). MarianMT transformer model fine-tuned on the full dataset improved BLEU scores by **49.6%** compared to baseline. Ten Siamese architectures tested for semantic similarity, achieving ~50% accuracy, demonstrating the importance of large, domain-specific corpora for translation and analysis.
+### Highlights
 
-**🎤 Presented at Chapman University Student Research Day:**
-- Oral Presentation
-- Poster Presentation
+- 📚 7,550 Arabic hadiths
+- 📈 49.6% BLEU improvement
+- 🧠 Evaluated 10 neural network architectures
+- 🎤 Presented oral and poster presentations at Chapman Student Research Day
 
-**🔬 Research Highlights:**
-- Fine-tuned MarianMT transformer on 7,550 Arabic hadiths
-- 49.6% BLEU score improvement over baseline
-- Tested 10 Siamese network architectures (LSTM, BiLSTM, GRU, Transformer)
-- Developed Arabic-specific representations for semantic similarity
-- Built web scraping pipeline for data collection and preprocessing
+**Tech**
 
-**💻 Tech Stack:** Python, PyTorch, Transformers (MarianMT, Hugging Face), BeautifulSoup, NLP, Deep Learning, LSTM, BiLSTM, GRU
+Python • PyTorch • Hugging Face • MarianMT • BeautifulSoup • NLP
 
-[**📖 Read Full Paper →**](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
+📄 [Read Publication](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
 
 ---
 
-## 🚀 What I Do:
-- **Machine Learning & NLP:** Build neural networks, transformers, and similarity detection models
-- **Data Engineering:** Design databases, optimize SQL queries, and create data pipelines
-- **Data Visualization:** Create interactive dashboards using Tableau, Power BI, and Python libraries
-- **Web Scraping & Automation:** Extract and process data from web sources with BeautifulSoup
-- **Statistical Analysis:** Apply predictive modeling and feature engineering to complex datasets
+## 🌱 Current Focus
 
----
-
-## 💼 Featured Projects:
-
-### 🤖 [Hadith Translation & Similarity Analysis](link-to-repo)
-Neural machine translation system using MarianMT transformers to translate 7,550 Arabic hadiths, achieving 49.6% BLEU score improvement. Built 10 deep learning models (LSTM, BiLSTM, GRU) for semantic similarity detection. **Published research** in Chapman University Digital Commons.
-- **Tech:** Python, PyTorch, Transformers, BeautifulSoup, NLP
-- **Publication:** https://digitalcommons.chapman.edu/cusrd_abstracts/779/
-
-### 🐾 [Pet Adoption Management System](link-to-repo)
-Full-stack platform with Streamlit frontend and MySQL backend, featuring normalized database design, role-based access control, and interactive dashboards for shelter operations.
-- **Tech:** Python, Streamlit, MySQL, SQL, Database Design
-
-### 📊 [Vestiaire Collective Business Analytics](link-to-repo)
-Analyzed 500K+ luxury resale product listings using Tableau, Power BI, and Alteryx to identify pricing inefficiencies and optimize revenue strategies.
-- **Tech:** Tableau, Power BI, Alteryx, Python, Data Visualization
-
-### ❤️ [Heart Disease Prediction Model](link-to-repo)
-Built and optimized Random Forest classifier with hyperparameter tuning to predict heart disease risk from medical datasets.
-- **Tech:** Python, scikit-learn, Pandas, Statistical Modeling
-
----
-
-## 🎯 I'm currently:
-- 🔍 Seeking **Data Analyst** or **Data Scientist** roles where I can apply ML and analytics to drive insights
-- 🌱 Expanding my cloud computing skills (AWS, Azure)
-- 📚 Reading research papers on transformer architectures and NLP applications
+- 🔍 Seeking Data Analyst and Machine Learning opportunities
+- ☁️ Learning AWS and Microsoft Azure
+- 📚 Reading current NLP and transformer research
+- 🛠 Building production-ready data science projects
 
 ---
 
@@ -85,60 +153,43 @@ Built and optimized Random Forest classifier with hyperparameter tuning to predi
 ## 📫 How to reach me:
 - 📧 Email: [speightasiyah@gmail.com](mailto:speightasiyah@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/asiyahspeight](https://www.linkedin.com/in/asiyahspeight)
-- 🌐 Portfolio: [AsiyahSpeight.github.io/asiyah-portfolio](https://AsiyahSpeight.github.io/asiyah-portfolio)
 - 📄 Research: [Published Paper on ML & NLP](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
-**Languages & Tools:**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Python • SQL • Java • JavaScript • R • C++
 
-**Data Science & ML:**
+### Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+PyTorch • TensorFlow • Hugging Face • scikit-learn
 
-**Visualization & BI:**
+### Data Analytics
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-1E4C8B?style=for-the-badge&logo=dataiku&logoColor=white)
+Power BI • Tableau • Alteryx • Excel
 
-**Database & DevOps:**
+### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+MySQL • SQL
+
+### Developer Tools
+
+Git • Linux • Streamlit • BeautifulSoup
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun Facts
 
-![Asiyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsiyahSpeight&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyahSpeight&layout=compact&theme=radical)
+📚 I enjoy fantasy novels, manga, and philosophy.
 
----
+🧕🏾 I enjoy modest fashion, exploring different cultures, and learning new languages.
 
-## 😄 Pronouns: She/Her
+🌍 I'm passionate about applying data science and AI to education, language, healthcare, and other socially impactful problems.
 
----
-
-## ⚡ Fun Facts:
-- 📚 I love manga and fantasy novels
-- 🧕🏾 I enjoy modest fashion and expressing creativity through style
-- 🌍 I'm passionate about creating inclusive spaces in tech—you belong here!
-- 🗣️ Currently learning Arabic and Thai
+🗣️ Fluent in Arabic and currently learning Thai.
 
 ---
 

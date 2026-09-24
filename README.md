@@ -4,7 +4,7 @@ I'm a recent **Data Science graduate** from **Chapman University** with experien
 
 My work focuses on building end-to-end data solutions—from data collection and preprocessing to predictive modeling, dashboards, and research—with an emphasis on solving real-world problems through data.
 
-📍 Anaheim Hills, CA
+📍 Anaheim, CA
 
 🎓 B.S. Data Science | Chapman University (2025)
 

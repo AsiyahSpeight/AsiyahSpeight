@@ -1,12 +1,14 @@
 # 👋🏾 Hi, I'm Asiyah Speight!
 
-I'm a recent **Data Science graduate** from **Chapman University** with experience in **machine learning, natural language processing, analytics, and data engineering**.
+I'm a Data Science graduate from Chapman University, currently pursuing my **M.S. in Applied Data Science at the University of San Diego**, with experience in machine learning, natural language processing, analytics, and data engineering.
 
 My work focuses on building end-to-end data solutions—from data collection and preprocessing to predictive modeling, dashboards, and research—with an emphasis on solving real-world problems through data.
 
 📍 Anaheim, CA
 
 🎓 B.S. Data Science | Chapman University (2025)
+
+🎓 M.S. Applied Data Science | University of San Diego (In Progress, Expected 2028)
 
 📄 Published ML & NLP Research
 
@@ -19,6 +21,7 @@ My work focuses on building end-to-end data solutions—from data collection and
 ## 📊 At a Glance
 
 - 🎓 B.S. in Data Science, Chapman University (2025)
+- 🎓 M.S. in Applied Data Science (In Progress), University of San Diego
 - 📄 Published ML & NLP Research
 - 🧠 Machine Learning | NLP | SQL | Data Analytics
 - 📈 Experience working with datasets ranging from 7,500 to 500,000+ records

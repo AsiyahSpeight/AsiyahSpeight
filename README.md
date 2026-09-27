@@ -7,7 +7,6 @@ My work focuses on building end-to-end data solutions—from data collection and
 📍 Anaheim, CA
 
 🎓 B.S. Data Science | Chapman University (2025)
-
 🎓 M.S. Applied Data Science | University of San Diego (In Progress, Expected 2028)
 
 📄 Published ML & NLP Research
@@ -20,8 +19,8 @@ My work focuses on building end-to-end data solutions—from data collection and
 
 ## 📊 At a Glance
 
-- 🎓 B.S. in Data Science, Chapman University (2025)
 - 🎓 M.S. in Applied Data Science (In Progress), University of San Diego
+- 🎓 B.S. in Data Science, Chapman University (2025)
 - 📄 Published ML & NLP Research
 - 🧠 Machine Learning | NLP | SQL | Data Analytics
 - 📈 Experience working with datasets ranging from 7,500 to 500,000+ records
@@ -42,6 +41,26 @@ My work focuses on building end-to-end data solutions—from data collection and
 
 ## 🚀 Featured Projects:
 
+### 📊 LinkedIn Job Postings: Application Conversion Analysis (In Progress)
+
+Applied consultancy-style project for my M.S. in Applied Data Science, using the CRISP-DM framework to investigate what drives applicant conversion on job postings.
+
+**Original Hypothesis:** More/narrower skill requirements suppress conversion.
+
+**Key Finding:** Not supported by the data — conversion stayed flat across skill count. Instead, **role seniority** emerged as the strongest predictor, with senior roles (Director, Executive) showing meaningfully lower conversion than entry-level, associate, and internship postings. Company size is a weaker, secondary factor.
+
+**Highlights**
+
+- 🔍 Identified a data quality issue: several high-volume "companies" (The Job Network, TEKsystems, Insight Global, Dice) are staffing agencies or job aggregators, not direct employers — undermining company size as a clean predictor and requiring a revised approach
+- ⚠️ Flagged a scraping artifact in the posting-volume time series, avoiding a false time-based conclusion
+- 🔄 Revised the working hypothesis based on evidence and reframed the next phase as a regression problem, with experience level as the leading predictor
+
+**Status:** EDA complete, currently synthesizing findings and moving into Modeling phase
+
+**Tech**
+
+Python • pandas • NumPy • Matplotlib
+
 ### 🤖 Hadith Translation & Similarity Analysis
 
 Published undergraduate research exploring Arabic–English neural machine translation and semantic similarity using the complete Sahih Bukhari corpus.
@@ -56,7 +75,7 @@ Published undergraduate research exploring Arabic–English neural machine trans
 
 **Tech**
 
-Python • PyTorch • Hugging Face • MarianMT • BeautifulSoup • NLP
+Python • PyTorch • TensorFlow • Hugging Face • MarianMT • BeautifulSoup • NLP
 
 📄 [Publication](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
 
@@ -121,7 +140,7 @@ My undergraduate research investigated Arabic–English neural machine translati
 
 **Tech**
 
-Python • PyTorch • Hugging Face • MarianMT • BeautifulSoup • NLP
+Python • PyTorch • TensorFlow • Hugging Face • MarianMT • BeautifulSoup • NLP
 
 📄 [Read Publication](https://digitalcommons.chapman.edu/cusrd_abstracts/779/)
 
@@ -129,6 +148,7 @@ Python • PyTorch • Hugging Face • MarianMT • BeautifulSoup • NLP
 
 ## 🌱 Current Focus
 
+- 🎓 Pursuing M.S. in Applied Data Science, University of San Diego
 - 🔍 Seeking Data Analyst and Machine Learning opportunities
 - ☁️ Learning AWS and Microsoft Azure
 - 📚 Reading current NLP and transformer research
@@ -172,7 +192,7 @@ PyTorch • TensorFlow • Hugging Face • scikit-learn
 
 ### Data Analytics
 
-Power BI • Tableau • Alteryx • Excel
+Power BI • Tableau • Alteryx • Excel • Matplotlib
 
 ### Databases
 
@@ -194,6 +214,4 @@ Git • Linux • Streamlit • BeautifulSoup
 
 🗣️ Fluent in Arabic and currently learning Thai.
 
----
-
-*💬 Open to collaborations, opportunities, and conversations about data science, ML, and tech for good!*
+💬 Open to collaborations, opportunities, and conversations about data science, ML, and tech for good!
